@@ -1,0 +1,42 @@
+nav{
+    position: sticky;
+    top:0px;
+}
+
+
+.vertical-line{
+
+    border-left: 2px solid #f2f2f2;
+    height:60px;
+}
+.nav-delivery>h5{
+    font-weight: 900;
+    margin-top: 10px;
+}
+.nav-delivery>p{
+    font-size: 13px;
+}
+#searchbar{
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    border: 1px solid #f2f2f2;
+    padding-inline: 10px;
+}
+#searchbar>input{
+    border: none;
+    width:40vw;
+    height: 50px;
+    background-color: transparent;
+}
+#hero-section{
+    width: 856px;
+height: 764px;
+flex-shrink: 0;
+}
+#categories-1{
+
+    display: flex;
+    flex-wrap: wrap;
+    padding-inline:7.5vw ;
+    justify-content: space-around;
+}
